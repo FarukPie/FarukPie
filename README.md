@@ -1,3 +1,4 @@
+![Profile Views](https://komarev.com/ghpvc/?username=farukpie&style=flat)
 # Hello 👋, I'm Omer Faruk Atak
 ### Software Developer
 
