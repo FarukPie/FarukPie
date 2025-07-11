@@ -16,6 +16,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="c#" width="40" height="40"/>&nbsp;
 </p>
+![Profile Views](https://komarev.com/ghpvc/?username=farukpie&style=flat)
 <img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=farukpie&show_icons=true&theme=radical" alt="Faruk's GitHub stats"></img> <!-- Thanks @onuralpszr -->
 <img width="50%" src="https://ghstats.onuralpsezer.com/?user=farukpie&theme=radical&hide_border=false" alt="Faruk's GitHub Streak stats"></img>
 
