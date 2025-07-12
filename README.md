@@ -19,7 +19,7 @@
 
 
 
-<img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=farukpie&show_icons=true&theme=radical" alt="Faruk's GitHub stats"></img> <!-- Thanks @onuralpszr -->
-<img width="50%" src="https://ghstats.onuralpsezer.com/?user=farukpie&theme=radical&hide_border=false" alt="Faruk's GitHub Streak stats"></img>
+<img width="50%" src="https://github-readme-stats-five-topaz-76.vercel.app/api?username=farukpie&show_icons=true&theme=radical" alt="Faruk's GitHub stats"></img><img width="50%" src="https://ghstats.onuralpsezer.com/?user=farukpie&theme=radical&hide_border=false" alt="Faruk's GitHub Streak stats"></img>
+
 
 
