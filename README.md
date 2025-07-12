@@ -6,7 +6,7 @@
 
 ## Contact Me
 <p><a href="https://linkedin.com/in/omer-faruk-atak-551025243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omer-faruk-atak-551025243" height="30" width="40" /></a>
-<a href="https://instagram.com/23farukavage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="23faruksavage" height="30" width="40" /></a></p>
+<a href="https://instagram.com/23farukavage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@23faruksavage" height="30" width="40" /></a></p>
 
 ## Skills
 
