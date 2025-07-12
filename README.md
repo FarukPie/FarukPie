@@ -5,7 +5,8 @@
 Ömer Faruk Atak | An MIS graduate with a strong foundation in C#, ASP.NET (MVC, N-tier), HTML, CSS, Java, and JavaScript. Passionate about solving complex problems and crafting efficient web solutions. Always eager to learn new technologies and contribute to impactful projects.
 
 ## Contact Me
-<p><a href="www.linkedin.com/in/omer-faruk-atak-551025243" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://www.instagram.com/23faruksavage/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://linkedin.com/in/mustafa-ulusoy-61167b299" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mustafa-ulusoy-61167b299" height="30" width="40" /></a>
+<a href="https://instagram.com/emulusoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emulusoy" height="30" width="40" /></a></p>
 
 ## Skills
 
