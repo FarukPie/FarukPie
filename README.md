@@ -2,6 +2,7 @@
 # Hello 👋, I'm Omer Faruk Atak
 ### Software Developer
 
+
 Ömer Faruk Atak | An MIS graduate with a strong foundation in C#, ASP.NET (MVC, N-tier), HTML, CSS, Java, and JavaScript. Passionate about solving complex problems and crafting efficient web solutions. Always eager to learn new technologies and contribute to impactful projects.
 
 ## Contact Me
